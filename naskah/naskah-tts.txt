@@ -1,0 +1,88 @@
+hook-00	Tuang oksigen cair di antara kutub magnet, dan cairan biru pucat itu menggantung, menolak jatuh.
+hook-01	Di video sebelumnya, teori ikatan valensi gagal menjelaskannya. Menurut teori itu, semua elektron oksigen berpasangan.
+hook-02	Masalahnya ada pada satu anggapan: bahwa setiap elektron ikatan tetap tinggal di antara dua atom tertentu.
+hook-03	Bagaimana kalau elektron tidak punya alamat tetap, dan menyebar ke seluruh molekul?
+hook-04	Itulah gagasan teori orbital molekul, dan dengan gagasan itu, misteri oksigen terpecahkan.
+roadmap-00	Perjalanan kita punya tiga bagian.
+roadmap-01	Pertama, prinsip dasar: menggabungkan orbital atom, orbital ikatan dan antiikatan, serta orde ikatan.
+roadmap-02	Kedua, implementasi dalam kimia: diagram molekul periode dua, oksigen, ion oksigen, dan molekul beda atom seperti karbon monoksida.
+roadmap-03	Ketiga, penerapan: bukti dari spektroskopi, oksigen singlet di dunia medis, dan nitrogen yang sulit dipecah.
+lcao-00	Mulai dari molekul paling sederhana: ha dua plus, dua proton dan satu elektron.
+lcao-01	Di dekat proton a, elektron tampak seperti di orbital satu es milik a. Di dekat be, seperti di satu es milik be.
+lcao-02	Maka tebakan terbaik untuk orbital molekul adalah gabungan linear keduanya: ce a kali fi a, ditambah atau dikurangi ce be kali fi be.
+lcao-03	Cara ini disebut el-ce-a-o: kombinasi linear orbital atom.
+lcao-04	Aturannya sederhana: dua orbital atom yang digabung selalu menghasilkan dua orbital molekul.
+bonding-00	Bila kedua gelombang dijumlahkan sefase, keduanya saling menguatkan di antara inti.
+bonding-01	Elektron terkumpul di antara dua proton dan merekatkan keduanya. Ini orbital ikatan, sigma satu es.
+bonding-02	Bila dikurangkan, kedua gelombang saling meniadakan di tengah dan muncul simpul.
+bonding-03	Elektron terdorong ke sisi luar, dan inti-inti saling tolak. Ini orbital antiikatan, sigma bintang satu es.
+bonding-04	Pada diagram energi, orbital ikatan turun di bawah orbital atom, dan orbital antiikatan naik sedikit lebih jauh di atasnya.
+h2-00	Elektron diisikan ke orbital molekul seperti ke orbital atom: dari energi terendah, paling banyak dua per orbital, spin berlawanan.
+h2-01	Ha dua punya dua elektron. Keduanya masuk ke sigma satu es, berpasangan. Molekul jadi stabil.
+h2-02	Kekuatan ikatan diukur dengan orde ikatan: elektron ikatan dikurangi elektron antiikatan, dibagi dua.
+h2-03	Untuk ha dua, dua dikurangi nol, dibagi dua: orde ikatan satu, sebuah ikatan tunggal.
+h2-04	Helium dua punya empat elektron: dua di ikatan, dua di antiikatan. Orde ikatannya nol, jadi tidak ada ikatan kovalen.
+h2-05	Itulah sebabnya helium tetap berupa atom tunggal. Teori ini menjelaskannya dengan satu hitungan sederhana.
+rules-00	Tidak semua orbital atom bisa digabung secara efektif. Ada tiga syarat.
+rules-01	Pertama, energinya harus berdekatan. Orbital satu es dan dua pe, misalnya, terlalu jauh untuk bercampur berarti.
+rules-02	Kedua, keduanya harus cukup bertumpang tindih di ruang.
+rules-03	Ketiga, simetrinya harus cocok. Orbital es dengan orbital pe yang tegak lurus sumbu: bagian positif dan negatifnya saling menghapus, tumpang tindih totalnya nol.
+rules-04	Syarat simetri ini akan muncul lagi, lebih rapi, ketika kita belajar grup titik.
+p2-00	Pada periode dua, orbital dua pe ikut bergabung. Ambil sumbu ikatan sebagai sumbu zet.
+p2-01	Dua orbital pe zet bertemu ujung ke ujung: membentuk sigma dua pe dan sigma bintang dua pe.
+p2-02	Orbital pe eks dan pe ye bertemu dari samping: membentuk dua orbital pi yang sama energinya, dan dua orbital pi bintang.
+p2-03	Orbital antiikatan selalu punya simpul tambahan di antara kedua inti.
+p2-04	Jadi delapan orbital atom valensi menghasilkan delapan orbital molekul: sigma dua es, sigma bintang dua es, dua pi, dua pi bintang, sigma dua pe, dan sigma bintang dua pe.
+oxygen-00	Sekarang oksigen. Setiap atom oksigen punya enam elektron valensi, jadi o dua punya dua belas.
+oxygen-01	Isi dari bawah: sigma dua es, sigma bintang dua es, sigma dua pe, lalu dua orbital pi. Sudah sepuluh elektron.
+oxygen-02	Dua elektron terakhir masuk ke dua orbital pi bintang yang sama energinya.
+oxygen-03	Menurut aturan Hun, keduanya menempati orbital berbeda dengan spin sejajar. Dua elektron tak berpasangan!
+oxygen-04	Inilah sebabnya oksigen paramagnetik, dan keadaan dasarnya triplet.
+oxygen-05	Orde ikatannya: delapan dikurangi empat, dibagi dua, sama dengan dua. Tetap ikatan rangkap dua, sesuai struktur Luis. Tapi kini magnetnya juga terjelaskan.
+mixing-00	Ada satu kejutan. Untuk boron, karbon, dan nitrogen, urutan orbitalnya sedikit berbeda.
+mixing-01	Pada atom-atom ini, orbital dua es dan dua pe cukup berdekatan sehingga ikut bercampur.
+mixing-02	Akibatnya orbital sigma dua pe terdorong naik, melewati orbital pi.
+mixing-03	Buktinya be dua: dengan urutan ini, dua elektron terakhirnya masuk ke dua orbital pi terpisah, dan be dua memang paramagnetik.
+mixing-04	Mulai oksigen dan fluor, celah dua es dan dua pe melebar, dan urutan normal kembali.
+period2-00	Dengan diagram ini, kita bisa meramal seluruh molekul diatomik periode dua.
+period2-01	Orde ikatan naik dari litium dua, satu; berilium dua, nol; boron dua, satu; karbon dua, dua; sampai puncaknya nitrogen dua, tiga.
+period2-02	Lalu turun lagi: oksigen dua, dua; fluor dua, satu; neon dua, nol.
+period2-03	Makin besar orde ikatan, makin pendek dan makin kuat ikatannya.
+period2-04	Nitrogen seratus sepuluh pikometer dan sekitar sembilan ratus empat puluh lima kilojul per mol; oksigen seratus dua puluh satu pikometer dan empat ratus sembilan puluh delapan; fluor seratus empat puluh dua pikometer dan hanya sekitar seratus lima puluh delapan.
+ions-00	Teori orbital molekul juga meramal ion. Lepaskan satu elektron pi bintang dari oksigen: terbentuk o dua plus.
+ions-01	Elektron antiikatan berkurang, orde ikatan naik menjadi dua setengah, dan ikatannya memendek, sekitar seratus dua belas pikometer.
+ions-02	Tambahkan satu elektron: ion superoksida, o dua minus, orde ikatan satu setengah, sekitar seratus tiga puluh tiga pikometer.
+ions-03	Tambahkan dua: ion peroksida, o dua dua minus, orde ikatan satu, sekitar seratus empat puluh sembilan pikometer.
+ions-04	Superoksida dan peroksida bukan hanya contoh soal. Keduanya muncul di sel tubuh kita sebagai spesies oksigen reaktif.
+hetero-00	Bagaimana jika kedua atom berbeda? Orbital atom yang lebih elektronegatif berenergi lebih rendah.
+hetero-01	Orbital ikatan lebih mirip orbital atom yang rendah, dan orbital antiikatan lebih mirip atom yang tinggi. Elektron tidak lagi dibagi rata.
+hetero-02	Karbon monoksida punya sepuluh elektron valensi, sama dengan nitrogen. Orde ikatannya juga tiga.
+hetero-03	Tetapi orbital terisi tertingginya, homo, terpusat di atom karbon, seperti sepasang tangan yang terjulur dari ujung karbon.
+hetero-04	Itulah sebabnya ce o mengikat besi dalam hemoglobin melalui atom karbonnya, jauh lebih kuat daripada oksigen. Inilah dasar keracunan karbon monoksida.
+frontier-00	Orbital terisi tertinggi disebut homo, dan orbital kosong terendah disebut lumo.
+frontier-01	Keduanya disebut orbital perbatasan, karena hampir semua kimia terjadi di sana.
+frontier-02	Saat bereaksi, elektron mengalir dari homo satu molekul ke lumo molekul lain.
+frontier-03	Saat menyerap cahaya, elektron melompat dari homo ke lumo. Celah energinya menentukan warna yang diserap.
+frontier-04	Gagasan orbital perbatasan ini diganjar Nobel Kimia tahun seribu sembilan ratus delapan puluh satu, untuk Kenici Fukui dan Rold Hofman.
+pes-00	Apakah orbital molekul sungguh ada, atau hanya alat hitung? Kita bisa mengukurnya.
+pes-01	Tembakkan foton ultraviolet berenergi tetap ke gas nitrogen. Foton itu melepaskan elektron dari orbital-orbitalnya.
+pes-02	Ukur energi kinetik elektron yang terlepas. Selisihnya dengan energi foton adalah energi ionisasi tiap orbital.
+pes-03	Spektrum nitrogen menunjukkan tiga kelompok puncak: sekitar lima belas koma enam, enam belas koma tujuh, dan delapan belas koma delapan elektronvolt.
+pes-04	Puncak terendah berasal dari sigma dua pe, lalu pi, lalu sigma bintang dua es: urutan tertukar yang tadi kita ramalkan, terlihat langsung.
+singlet-00	Oksigen triplet ternyata menyimpan rahasia penting bagi kehidupan.
+singlet-01	Hampir semua molekul organik, termasuk tubuh kita, berada dalam keadaan singlet. Reaksi langsung triplet dengan singlet terhambat aturan spin.
+singlet-02	Itulah salah satu alasan kayu dan kertas tidak terbakar sendiri di udara, walau reaksinya melepaskan banyak energi. Perlu api pemantik.
+singlet-03	Jika kedua elektron pi bintang dipaksa berpasangan, terbentuk oksigen singlet, sekitar nol koma sembilan delapan elektronvolt di atas keadaan dasar, dan jauh lebih reaktif.
+singlet-04	Dokter memanfaatkannya dalam terapi fotodinamik: zat peka cahaya disinari, membentuk oksigen singlet yang merusak sel kanker.
+nitrogen-00	Udara kita tujuh puluh delapan persen nitrogen, tapi tumbuhan tidak bisa langsung memakainya.
+nitrogen-01	Orde ikatan tiga dan orbital ikatan yang semuanya terisi membuat en dua salah satu molekul paling stabil.
+nitrogen-02	Memecah ikatannya butuh sekitar sembilan ratus empat puluh lima kilojul per mol.
+nitrogen-03	Proses Haber Bosch memaksanya bereaksi dengan hidrogen pada suhu dan tekanan tinggi, menghasilkan amonia untuk pupuk, dan memakan sekitar satu sampai dua persen energi dunia.
+nitrogen-04	Bakteri tanah melakukannya pada suhu kamar dengan enzim nitrogenase. Memahami orbitalnya adalah langkah pertama meniru mereka.
+recap-00	Mari rangkum.
+recap-01	Orbital molekul adalah gabungan linear orbital atom. Dua orbital atom menghasilkan satu orbital ikatan dan satu antiikatan.
+recap-02	Orde ikatan sama dengan elektron ikatan dikurangi antiikatan, dibagi dua.
+recap-03	Dua elektron tak berpasangan di pi bintang menjelaskan oksigen yang tertarik magnet.
+recap-04	Pencampuran es dan pe menukar urutan pada boron sampai nitrogen, dan spektroskopi fotoelektron membuktikannya.
+recap-05	Homo dan lumo menentukan reaksi dan warna.
+recap-06	Berikutnya: orbital molekul untuk molekul banyak atom, dan peran simetri. Sampai jumpa.
